@@ -17,7 +17,7 @@ I developed this Python-based automation tool to solve this problem by creating 
 * **Language:** Python 3.x
 * **Core Concepts:** Dictionaries, Loops (While/For), Input Validation, Error Handling.
 
-## 🔮 Future Improvements (Roadmap)
+## Future Improvements (Roadmap)
 * [ ] Exporting daily logs to Excel/CSV for management review.
 * [ ] Integrating a simple GUI (Graphical User Interface) using Tkinter.
 * [ ] Connecting to a SQLite database for permanent storage.
