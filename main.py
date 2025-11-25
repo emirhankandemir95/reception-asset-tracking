@@ -11,6 +11,7 @@ while True:
     print("1: Kart Ver (Check-out)")
     print("2: Kart Teslim Al (Check-in)")
     print("3: Çıkış")
+    print("4: Hakkında")
     
     islem = input("İşlem Seçiniz: ")
 
@@ -48,6 +49,17 @@ while True:
     elif islem == "3":
         print("Sistem kapatılıyor. İyi nöbetler!")
         break 
+    
+    # SENARYO 4: Hakkında
+    elif islem == "4":
+        print("\n***********************************")
+        print("* Developed by Emirhan Kandemir *")
+        print("* v1.0 - 2025                  *")
+        print("***********************************")
+
+    input("Ana Menüye Dönmek İçin Enter'a Basınız...")
+    
+    continue
 
     # Geçersiz bir tuşa basılırsa
     else:
